@@ -30,7 +30,7 @@ public class ClickControl1 : MonoBehaviour
         //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         //Instantiate(MyPartSys, obj_txt.transform.position, MyPartSys.rotation);
 
-        //ClickTrack.TotalClick = 0;
+        ClickTrack.TotalClick = 0;
         //Link the object and the text
         obj_name = gameObject.name;
         //Debug.Log (obj_name);
