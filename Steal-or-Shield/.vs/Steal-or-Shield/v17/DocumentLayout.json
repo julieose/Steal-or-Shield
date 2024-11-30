@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\\u043F\u0434 24\\steal-or-shield\\steal-or-shield\\assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\\u043F\u0434 24\\steal-or-shield\\steal-or-shield\\assets\\scripts\\clickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\\u043F\u0434 24\\steal-or-shield\\steal-or-shield\\assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\\u043F\u0434 24\\steal-or-shield\\steal-or-shield\\assets\\scripts\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\clickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +42,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackgroundScaler.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\BackgroundScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundScaler.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\BackgroundScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundScaler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:42:43.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemCounter.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ItemCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCounter.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ItemCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemCounter.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:28:38.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClickTrack.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickTrack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ClickTrack.cs",
               "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickTrack.cs",
               "RelativeToolTip": "Assets\\Scripts\\ClickTrack.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wBAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T18:40:17.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ClickControl.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ClickControl.cs",
               "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\ClickControl.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T15:03:43.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Timer.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Timer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
