@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cd7d351623291f34eb0c91fdd02e0432
+guid: c3c425c2b35d585468163a1c06ce087e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8103501065193564975
-    second: mMainCharacter_0
+      213: -3231433029220524922
+    second: bubble circle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mMainCharacter_0
+      name: bubble circle_0
       rect:
         serializedVersion: 2
-        x: 242
-        y: 12
-        width: 344
-        height: 1214
+        x: 21
+        y: 54
+        width: 523
+        height: 363
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2bacdbd84b657070800000000000000
-      internalID: 8103501065193564975
+      spriteID: 68c98d1e7c4a723d0800000000000000
+      internalID: -3231433029220524922
       vertices: []
       indices: 
       edges: []
