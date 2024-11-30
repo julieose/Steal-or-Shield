@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vacuum_cleaner_0: 4317003517954495615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
