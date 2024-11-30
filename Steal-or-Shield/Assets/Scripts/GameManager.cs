@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static Unity.Collections.AllocatorManager;
 
 public class GameManager : MonoBehaviour
 {
@@ -53,6 +54,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -69,6 +71,7 @@ public class GameManager : MonoBehaviour
         {
             shuffling = true;
             StartCoroutine(WaitShuffle(0.5f));
+            //StartNewGame();
         }
 
         // On click send out ray to see if we click a piece.
@@ -160,6 +163,5 @@ public class GameManager : MonoBehaviour
                 count++;
             }
         }
-    }
+    } 
 }
-
