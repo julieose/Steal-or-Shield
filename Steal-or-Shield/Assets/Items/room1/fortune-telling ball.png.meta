@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fortune-telling ball_0: 444737967778037122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
