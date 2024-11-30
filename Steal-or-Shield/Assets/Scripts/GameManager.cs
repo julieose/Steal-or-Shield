@@ -163,5 +163,17 @@ public class GameManager : MonoBehaviour
                 count++;
             }
         }
-    } 
+    }
+
+    //public void Leave()
+    //{
+    //    Application.Quit();
+    //}
+
+    //public void StartNewGame()
+    //{
+    //    shuffling = true;
+    //    StartCoroutine(WaitShuffle(0.5f));
+    //    Debug.Log("New Game");
+    //}
 }
