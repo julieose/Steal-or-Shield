@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using static UnityEngine.RuleTile.TilingRuleOutput;
+using UnityEngine.Audio;
 
 public class ClickTrack : MonoBehaviour
 {
@@ -11,7 +12,7 @@ public class ClickTrack : MonoBehaviour
     public AudioClip bcgMusic;
     public GameObject myGameObject;
     private bool isMouseLocked = false;
-
+   
     void Start()
     {
         myGameObject.SetActive(false);
@@ -36,23 +37,28 @@ public class ClickTrack : MonoBehaviour
 
             if (TotalClick >= 5)
             {
+              
                 TotalClick = 0;
-               // AudioSource.PlayClipAtPoint(bcgMusic, transform.position);
                 StartCoroutine(Wait5Sec());
-
             }
         }
     }
 
-    IEnumerator Wait5Sec()
+    IEnumerator Wait5Sec()//штраф
     {
+        AudioSource audioSource = gameObject.GetComponent<AudioSource>();//определ€ю компонент с музыкой
+        if (audioSource.isPlaying)
+        {
+            audioSource.Pause();//ставлю на паузу фоновую музыку
+        }
         AudioSource.PlayClipAtPoint(bcgMusic, transform.position);
-        Cursor.visible = false;
-        LockMouse(true);
-        myGameObject.SetActive(true);
-        yield return new WaitForSecondsRealtime(5.0f);
-        myGameObject.SetActive(false);
-        Cursor.visible = true;
-        LockMouse(false);
+        Cursor.visible = false; //курсор не видно
+        LockMouse(true);//блокирую мышь
+        myGameObject.SetActive(true);//делаю активным объект со штрафом
+        yield return new WaitForSecondsRealtime(5.0f);//ждет 5 секунд
+        myGameObject.SetActive(false);//делаю неактивным объект со штрафом
+        Cursor.visible = true;//включаю курсор
+        audioSource.Play();//включаю фоновую музыку
+        LockMouse(false);//разблокирую мышь
     }
 }

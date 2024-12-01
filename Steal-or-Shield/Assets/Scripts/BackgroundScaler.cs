@@ -5,7 +5,7 @@ namespace RimuruDev
     //[SelectionBase]
     //[DisallowMultipleComponent]
     //[RequireComponent(typeof(SpriteRenderer))]
-    //[HelpURL("https://github.com/RimuruDev/Unity-BackgroundScaler")]
+   
     public sealed class BackgroundScaler : MonoBehaviour
     {
         [SerializeField] private Camera cameraRenderer;
