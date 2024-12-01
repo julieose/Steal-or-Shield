@@ -1047,6 +1047,7 @@ GameObject:
   - component: {fileID: 231619157}
   - component: {fileID: 231619158}
   - component: {fileID: 231619159}
+  - component: {fileID: 231619160}
   m_Layer: 0
   m_Name: bedroom
   m_TagString: Untagged
@@ -1286,6 +1287,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &231619160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 231619154}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac2073fbf358fd49a04c76972336ec5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &294514703
 GameObject:
   m_ObjectHideFlags: 0

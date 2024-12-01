@@ -595,7 +595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17b871d94e0d23c4abffdb0baa91e7b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: bedroom
 --- !u!1 &600632610
 GameObject:
   m_ObjectHideFlags: 0
@@ -1603,7 +1602,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17b871d94e0d23c4abffdb0baa91e7b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: Call1
 --- !u!1 &2019594428
 GameObject:
   m_ObjectHideFlags: 0
@@ -1617,6 +1615,7 @@ GameObject:
   - component: {fileID: 2019594429}
   - component: {fileID: 2019594432}
   - component: {fileID: 2019594433}
+  - component: {fileID: 2019594434}
   m_Layer: 0
   m_Name: Camera
   m_TagString: MainCamera
@@ -1752,6 +1751,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c10f8708270fcba46b15a866fc6bb578, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2019594434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019594428}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac2073fbf358fd49a04c76972336ec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2112823359
