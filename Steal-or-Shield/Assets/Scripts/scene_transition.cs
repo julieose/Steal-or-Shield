@@ -3,9 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class scene_transition : MonoBehaviour
 {
-    public string SceneName;
     public void Transition()
     {
-        SceneManager.LoadScene(SceneName);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

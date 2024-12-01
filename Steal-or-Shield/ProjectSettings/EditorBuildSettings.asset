@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Call1.unity
     guid: 262e3e4561b0b4b47b5410f06bfa5d19
   - enabled: 1
+    path: Assets/Scenes/Action1.unity
+    guid: 746311872875cdb4d8c1f39dcc5b3914
+  - enabled: 1
+    path: Assets/Scenes/Action2.unity
+    guid: 81cd8c40c7cabfe479be6eaa10b39c69
+  - enabled: 1
     path: Assets/Scenes/bedroom.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
