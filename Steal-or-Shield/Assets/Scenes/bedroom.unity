@@ -5381,8 +5381,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfe5ebe0bee3c2646b80eec89b6c6f8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLeft: 60
-  nextSceneName: Room2
+  timeLeft: 120
+  nextSceneName: Action1
   timerText: {fileID: 507180402}
 --- !u!4 &1679204635
 Transform:
