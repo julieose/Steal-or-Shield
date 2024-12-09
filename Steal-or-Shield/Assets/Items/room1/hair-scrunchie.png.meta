@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hair-scrunchie_0: -391087764410672664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
