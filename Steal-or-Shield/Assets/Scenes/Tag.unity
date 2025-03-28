@@ -370,8 +370,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -625, y: -204}
-  m_SizeDelta: {x: 260, y: 80}
+  m_AnchoredPosition: {x: -680, y: -130}
+  m_SizeDelta: {x: 320, y: 130}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &538843249
 MonoBehaviour:
@@ -449,7 +449,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 757748561783155231, guid: e9afa68b0e74afc44bf90957964f1222, type: 3}
+  m_Sprite: {fileID: -7449421279380016608, guid: de35382018fa3094f83f503567a8a5ef, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -537,7 +537,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0412\u044B\u0439\u0442\u0438"
+  m_Text: 
 --- !u!222 &616405967
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -766,8 +766,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -625, y: -75}
-  m_SizeDelta: {x: 260, y: 80}
+  m_AnchoredPosition: {x: -680, y: 130}
+  m_SizeDelta: {x: 320, y: 130}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1208632967
 MonoBehaviour:
@@ -845,7 +845,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 757748561783155231, guid: e9afa68b0e74afc44bf90957964f1222, type: 3}
+  m_Sprite: {fileID: 263764176074849219, guid: 267a2474a6ee2a846be4f437acedb48e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -907,7 +907,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1490905636}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
   m_Name: 
@@ -1056,7 +1056,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -0.000045776367}
-  m_SizeDelta: {x: 1886.4, y: 1080}
+  m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2130946743
 MonoBehaviour:
