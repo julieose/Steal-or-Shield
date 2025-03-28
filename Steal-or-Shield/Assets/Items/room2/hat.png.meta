@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cf2f680397ec60c45bfda983f82f9d7e
+guid: e567dc20bb01a7a4a9b6b043c1c6e3fd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3658677536497691220
-    second: Corridor_0
+      213: 3063841963128474276
+    second: hat_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Corridor_0
+      name: hat_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 4100
-        height: 2308
+        y: 234
+        width: 841
+        height: 600
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca59a514a24c93dc0800000000000000
-      internalID: -3658677536497691220
+      spriteID: 4aa45345804f48a20800000000000000
+      internalID: 3063841963128474276
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Corridor_0: -3658677536497691220
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
