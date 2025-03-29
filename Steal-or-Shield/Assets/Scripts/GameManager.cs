@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using static Unity.Collections.AllocatorManager;
 
 public class GameManager : MonoBehaviour
 {
@@ -11,8 +11,7 @@ public class GameManager : MonoBehaviour
     private List<Transform> pieces;
     private int emptyLocation;
     private int size;
-    public Text victoryText;
-    private bool gameStarted = false;
+    private bool shuffling = false;
 
     // Create the game setup with size x size pieces.
     private void CreateGamePieces(float gapThickness)
@@ -62,19 +61,17 @@ public class GameManager : MonoBehaviour
         pieces = new List<Transform>();
         size = 4;
         CreateGamePieces(0.01f);
-
-        StartCoroutine(WaitShuffle(0.5f));
     }
 
     // Update is called once per frame
     void Update()
     {
-
-        if (gameStarted && CheckCompletion())
+        // Check for completion.
+        if (!shuffling && CheckCompletion())
         {
-            //victoryText.text = "Victory!";
-            gameStarted = false;
-            ExitButClick();
+            shuffling = true;
+            StartCoroutine(WaitShuffle(0.5f));
+            //StartNewGame();
         }
 
         // On click send out ray to see if we click a piece.
@@ -133,7 +130,7 @@ public class GameManager : MonoBehaviour
     {
         yield return new WaitForSeconds(duration);
         Shuffle();
-        gameStarted = true;
+        shuffling = false;
     }
 
     // Brute force shuffling.
@@ -168,16 +165,15 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void ShuffleButClick()
-    {
-        StartCoroutine(WaitShuffle(0.5f));
-    }
+    //public void Leave()
+    //{
+    //    Application.Quit();
+    //}
 
-    public void ExitButClick()
-    {
-        Application.Quit();
-        //#if UNITY_EDITOR
-        //        UnityEditor.EditorApplication.isPlaying = false;
-        //#endif
-    }
+    //public void StartNewGame()
+    //{
+    //    shuffling = true;
+    //    StartCoroutine(WaitShuffle(0.5f));
+    //    Debug.Log("New Game");
+    //}
 }
