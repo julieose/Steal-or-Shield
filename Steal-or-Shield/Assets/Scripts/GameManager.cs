@@ -1,7 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+//using static UnityEngine.RuleTile.TilingRuleOutput;
 using UnityEngine.UI;
+using UnityEngine.Audio;
+
 
 public class GameManager : MonoBehaviour
 {
@@ -12,6 +16,8 @@ public class GameManager : MonoBehaviour
     private int emptyLocation;
     private int size;
     public Text victoryText;
+    public GameObject myGameObject;//объект после победной игры
+    public AudioClip bcgMusic;// музыка победы
     private bool gameStarted = false;
 
     // Create the game setup with size x size pieces.
@@ -58,12 +64,14 @@ public class GameManager : MonoBehaviour
 
     // Start is called before the first frame update
     void Start()
-    {
+    {   
+        myGameObject.SetActive(false);
         pieces = new List<Transform>();
         size = 4;
         CreateGamePieces(0.01f);
 
         StartCoroutine(WaitShuffle(0.5f));
+        
     }
 
     // Update is called once per frame
@@ -72,9 +80,22 @@ public class GameManager : MonoBehaviour
 
         if (gameStarted && CheckCompletion())
         {
-            victoryText.text = "Victory!";
-            gameStarted = false;
-            ExitButClick();
+            //victoryText.text = "Victory!";
+            //AudioSource audioSource = gameObject.GetComponent<AudioSource>();//определ€ю компонент с музыкой
+            //if (audioSource.isPlaying)
+            //{
+            //    audioSource.Pause();//ставлю на паузу фоновую музыку
+            //}
+            //AudioSource.PlayClipAtPoint(bcgMusic, transform.position);
+            for (int i = 0; i < 16; i++)
+            {
+                pieces[i].gameObject.SetActive(false);
+            }
+          
+            StartCoroutine(Pause(7));
+            
+
+            //ExitButClick();
         }
 
         // On click send out ray to see if we click a piece.
@@ -179,5 +200,42 @@ public class GameManager : MonoBehaviour
         //#if UNITY_EDITOR
         //        UnityEditor.EditorApplication.isPlaying = false;
         //#endif
+    }
+    //IEnumerator Wait5Sec()//победа
+    //{
+    //    //AudioSource audioSource = gameObject.GetComponent<AudioSource>();//определ€ю компонент с музыкой
+    //    //if (audioSource.isPlaying)
+    //    //{
+    //    //    audioSource.Pause();//ставлю на паузу фоновую музыку
+    //    //}
+    //    //AudioSource.PlayClipAtPoint(bcgMusic, transform.position);
+    //    Cursor.visible = false; //курсор не видно
+    //   // LockMouse(true);//блокирую мышь
+    //    myGameObject.SetActive(true);//делаю активным объект с победой
+    //    yield return new WaitForSeconds(5);
+    //    //yield return new WaitForSecondsRealtime(7.0f);//ждет 7 секунд
+    //    myGameObject.SetActive(false);//делаю неактивным объект с победой
+    //    //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    //     Cursor.visible = true;//включаю курсор
+    //    // audioSource.Play();//включаю фоновую музыку
+    //    // LockMouse(false);//разблокирую мышь
+    //}
+
+    IEnumerator Pause(float time)
+    {
+        Cursor.visible = false; //курсор не видно
+        // јктивируем объект с победой
+        myGameObject.SetActive(true);
+
+        // ∆дем 7 секунд
+        yield return new WaitForSecondsRealtime(time);
+
+        // ƒеактивируем объект с победой
+        myGameObject.SetActive(false);
+
+        // —брасываем состо€ние игры
+        gameStarted = false;
+        Cursor.visible = true;//включаю курсор
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
