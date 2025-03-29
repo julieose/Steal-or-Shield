@@ -289,7 +289,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -728, y: -311}
   m_SizeDelta: {x: 260, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &245983211
@@ -577,7 +577,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameTransform: {fileID: 83314614}
   piecePrefab: {fileID: 6081030449652868335, guid: f4dc571b7dfdd1c47b0227fd51ab2a5e, type: 3}
-  victoryText: {fileID: 0}
+  victoryText: {fileID: 245983211}
 --- !u!4 &895737140
 Transform:
   m_ObjectHideFlags: 0

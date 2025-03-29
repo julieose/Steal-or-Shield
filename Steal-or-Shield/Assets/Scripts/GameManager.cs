@@ -72,7 +72,7 @@ public class GameManager : MonoBehaviour
 
         if (gameStarted && CheckCompletion())
         {
-            //victoryText.text = "Victory!";
+            victoryText.text = "Victory!";
             gameStarted = false;
             ExitButClick();
         }
