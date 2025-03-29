@@ -33,6 +33,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Corridor.unity
     guid: 2aa04e949a64bae479230fa3694ff7e6
   - enabled: 1
+    path: Assets/Scenes/Tag.unity
+    guid: 186ef49205490314cb6e7369801c8850
+  - enabled: 1
     path: Assets/Scenes/Room2.unity
     guid: ad8f93e2a18d5c145991e87e27fe63ab
   m_configObjects:
