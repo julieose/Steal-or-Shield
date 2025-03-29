@@ -80,6 +80,7 @@ public class GameManager : MonoBehaviour
 
         if (gameStarted && CheckCompletion())
         {
+            StartCoroutine(Pause1(2));
             //victoryText.text = "Victory!";
             //AudioSource audioSource = gameObject.GetComponent<AudioSource>();//определ€ю компонент с музыкой
             //if (audioSource.isPlaying)
@@ -87,12 +88,12 @@ public class GameManager : MonoBehaviour
             //    audioSource.Pause();//ставлю на паузу фоновую музыку
             //}
             //AudioSource.PlayClipAtPoint(bcgMusic, transform.position);
-            for (int i = 0; i < 16; i++)
-            {
-                pieces[i].gameObject.SetActive(false);
-            }
+            //for (int i = 0; i < 16; i++)
+            //{
+            //    pieces[i].gameObject.SetActive(false);
+            //}
           
-            StartCoroutine(Pause(7));
+            //StartCoroutine(Pause(7));
             
 
             //ExitButClick();
@@ -237,5 +238,21 @@ public class GameManager : MonoBehaviour
         gameStarted = false;
         Cursor.visible = true;//включаю курсор
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+    IEnumerator Pause1(float time)
+    {
+       
+
+        // ∆дем 7 секунд
+        yield return new WaitForSecondsRealtime(time);
+
+
+        for (int i = 0; i < 16; i++)
+        {
+            pieces[i].gameObject.SetActive(false);
+        }
+
+        StartCoroutine(Pause(7));
+
     }
 }
