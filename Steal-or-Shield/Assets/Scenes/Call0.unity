@@ -535,7 +535,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 578146981}
         m_TargetAssemblyTypeName: scene_transition, Assembly-CSharp
-        m_MethodName: Transition
+        m_MethodName: Skip
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e567dc20bb01a7a4a9b6b043c1c6e3fd
+guid: 6bdded0adef80c54db88d7b9da4748fa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3063841963128474276
-    second: hat_0
+      213: 8868693398178482513
+    second: chef`s hat_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hat_0
+      name: chef`s hat_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 234
-        width: 841
-        height: 600
+        x: 203
+        y: 352
+        width: 600
+        height: 401
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4aa45345804f48a20800000000000000
-      internalID: 3063841963128474276
+      spriteID: 159c74448ade31b70800000000000000
+      internalID: 8868693398178482513
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      hat_0: 3063841963128474276
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
