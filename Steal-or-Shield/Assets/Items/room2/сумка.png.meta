@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 92505c79d42ea4648850ddd5baf6b441
+guid: f72750098f29d8d4bbc195c0ca9b4904
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8193447368972421563
-    second: audio_button_0
-  - first:
-      213: 7279781888916187563
-    second: audio_button_1
+      213: 4099265956481468390
+    second: "\u0441\u0443\u043C\u043A\u0430_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: audio_button_0
+      name: "\u0441\u0443\u043C\u043A\u0430_0"
       rect:
         serializedVersion: 2
-        x: 27
-        y: 37
-        width: 87
-        height: 151
+        x: 0
+        y: 0
+        width: 1025
+        height: 1025
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb9c579a8f8f4b170800000000000000
-      internalID: 8193447368972421563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: audio_button_1
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 29
-        width: 68
-        height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba9eb2bde0bf60560800000000000000
-      internalID: 7279781888916187563
+      spriteID: 6e70ee72ba483e830800000000000000
+      internalID: 4099265956481468390
       vertices: []
       indices: 
       edges: []
@@ -159,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      audio_button_0: 8193447368972421563
-      audio_button_1: 7279781888916187563
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
