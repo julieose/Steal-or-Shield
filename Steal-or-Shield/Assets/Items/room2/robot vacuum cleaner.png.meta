@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 7f321e2638781754e9c6735de9721f44
+guid: a6623b6763496de4690b511a70d79c77
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6112692652904747892
-    second: "\u043A\u0438\u0441\u0442\u044C_0"
+      213: -2568313909276316941
+    second: robot vacuum cleaner_0
+  - first:
+      213: -1186864154137709197
+    second: robot vacuum cleaner_1
+  - first:
+      213: -1434650820048582159
+    second: robot vacuum cleaner_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u043A\u0438\u0441\u0442\u044C_0"
+      name: robot vacuum cleaner_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1026
-        height: 1024
+        x: 264
+        y: 365
+        width: 507
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4731785d495a4d450800000000000000
-      internalID: 6112692652904747892
+      spriteID: 3fae3e56b148b5cd0800000000000000
+      internalID: -2568313909276316941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot vacuum cleaner_1
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 435
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3753aff0759678fe0800000000000000
+      internalID: -1186864154137709197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot vacuum cleaner_2
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 362
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f908462ea8171ce0800000000000000
+      internalID: -1434650820048582159
       vertices: []
       indices: 
       edges: []
@@ -134,8 +184,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      "\u043A\u0438\u0441\u0442\u044C_0": 6112692652904747892
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

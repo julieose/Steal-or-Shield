@@ -224,6 +224,12 @@ public class GameManager : MonoBehaviour
 
     IEnumerator Pause(float time)
     {
+        AudioSource audioSource = gameObject.GetComponent<AudioSource>();//определ€ю компонент с музыкой
+        if (audioSource.isPlaying)
+        {
+            audioSource.Pause();//ставлю на паузу фоновую музыку
+        }
+        AudioSource.PlayClipAtPoint(bcgMusic, transform.position);
         Cursor.visible = false; //курсор не видно
         // јктивируем объект с победой
         myGameObject.SetActive(true);
@@ -237,11 +243,11 @@ public class GameManager : MonoBehaviour
         // —брасываем состо€ние игры
         gameStarted = false;
         Cursor.visible = true;//включаю курсор
+        //audioSource.Play();//включаю фоновую музыку
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
     IEnumerator Pause1(float time)
     {
-       
 
         // ∆дем 7 секунд
         yield return new WaitForSecondsRealtime(time);
@@ -252,7 +258,7 @@ public class GameManager : MonoBehaviour
             pieces[i].gameObject.SetActive(false);
         }
 
-        StartCoroutine(Pause(7));
+        StartCoroutine(Pause(5));
 
     }
 }
