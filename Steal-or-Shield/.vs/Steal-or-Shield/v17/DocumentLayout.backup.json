@@ -1,26 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\",
+  "WorkspaceRootPath": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|c:\\users\\julia\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steal-or-shield\\steal-or-shield\\assets\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\\u043F\u0434 24\\steal-or-shield\\steal-or-shield\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70904545-F5C4-DE6F-3D09-6F262478C11B}|Unity.TextMeshPro.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\library\\packagecache\\com.unity.ugui\\runtime\\tmp\\tmp_packageresourceimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70904545-F5C4-DE6F-3D09-6F262478C11B}|Unity.TextMeshPro.csproj|solutionrelative:library\\packagecache\\com.unity.ugui\\runtime\\tmp\\tmp_packageresourceimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\clickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,32 +49,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Settings.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Settings.cs",
-              "RelativeDocumentMoniker": "Assets\\Settings.cs",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Settings.cs",
-              "RelativeToolTip": "Assets\\Settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAOwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:51:15.517Z",
+              "WhenOpened": "2025-03-30T14:56:34.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BackgroundScaler.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\BackgroundScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundScaler.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\BackgroundScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundScaler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:44:49.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemCounter.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ItemCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCounter.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ItemCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:53:09.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClickTrack.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickTrack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClickTrack.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickTrack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClickTrack.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:52:54.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClickControl.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClickControl.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClickControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:52:33.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Settings.cs",
+              "RelativeDocumentMoniker": "Assets\\Settings.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Settings.cs",
+              "RelativeToolTip": "Assets\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:51:15.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TMP_SDF.shader",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
@@ -63,11 +146,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "TMP_PackageResourceImporter.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAswB0AAADZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,11 +158,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MusicManager.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\MusicManager.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\MusicManager.cs",
               "RelativeDocumentMoniker": "Assets\\MusicManager.cs",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\MusicManager.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\MusicManager.cs",
               "RelativeToolTip": "Assets\\MusicManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,12 +170,10 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\MainMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
               "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\MainMenu.cs",
-              "RelativeToolTip": "Assets\\MainMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T17:36:24.465Z"
