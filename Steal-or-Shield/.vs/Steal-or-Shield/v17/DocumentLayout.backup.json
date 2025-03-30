@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|c:\\users\\julia\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steal-or-shield\\steal-or-shield\\assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Assets\\Settings.cs",
               "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Settings.cs",
               "RelativeToolTip": "Assets\\Settings.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T14:51:15.517Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-03-29T13:24:01.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T13:24:01.949Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Assets\\MainMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:36:24.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T17:36:24.465Z"
             }
           ]
         }
