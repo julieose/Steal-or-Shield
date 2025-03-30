@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
 guid: fb955345bdf8ab74cbca0ddd1086fcb3
-=======
-guid: 6042aee398d0a874bbfcf5cbc1a7f897
->>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -138,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "\u043F\u0435\u0441\u043E\u0447\u043D\u044B\u0435 \u0447\u0430\u0441\u044B_0": 4157862271700154140
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
