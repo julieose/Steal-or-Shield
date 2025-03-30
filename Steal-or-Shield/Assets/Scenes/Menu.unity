@@ -472,7 +472,7 @@ AudioSource:
   m_GameObject: {fileID: 145403786}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: b4e938df0e463c34397b8f86ffd21442, type: 2}
   m_audioClip: {fileID: 8300000, guid: a5d491dcd331dab488eb631a5385c949, type: 3}
   m_Resource: {fileID: 8300000, guid: a5d491dcd331dab488eb631a5385c949, type: 3}
   m_PlayOnAwake: 1
@@ -587,10 +587,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66475e5c62a442842ba3716687a8558f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  toggleMusic: {fileID: 495194089}
-  sliderVolumeMusic: {fileID: 203423785}
-  audio: {fileID: 145403787}
-  volume: 50
+  volumeSlider: {fileID: 203423785}
+  audioMixer: {fileID: 24100000, guid: b4e938df0e463c34397b8f86ffd21442, type: 2}
 --- !u!1 &145872697
 GameObject:
   m_ObjectHideFlags: 0
@@ -1187,9 +1185,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 145403789}
-        m_TargetAssemblyTypeName: MusicManager, Assembly-CSharp
-        m_MethodName: SliderMusic
-        m_Mode: 1
+        m_TargetAssemblyTypeName: AudioManager, Assembly-CSharp
+        m_MethodName: SetVolume
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1210,10 +1208,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66475e5c62a442842ba3716687a8558f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  toggleMusic: {fileID: 0}
-  sliderVolumeMusic: {fileID: 0}
-  audio: {fileID: 0}
-  volume: 0
+  volumeSlider: {fileID: 0}
+  audioMixer: {fileID: 0}
 --- !u!1 &242625936
 GameObject:
   m_ObjectHideFlags: 0

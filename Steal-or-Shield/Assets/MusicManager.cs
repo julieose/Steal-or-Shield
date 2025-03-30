@@ -1,57 +1,28 @@
 using UnityEngine;
+using UnityEngine.Audio;
 using UnityEngine.UI;
 
-public class MusicManager : MonoBehaviour
+public class AudioManager : MonoBehaviour
 {
-    public Toggle toggleMusic;
-    public Slider sliderVolumeMusic;
-    public AudioSource audio;
-    public float volume;
+    public Slider volumeSlider;          // Ползунок для управления громкостью
+    public AudioMixer audioMixer;        // Ваш микшер звуков
 
     void Start()
     {
-        Load();
-        ValueMusic();
-
-    
-    }
-
-
-    public void SliderMusic()
-    {
-        volume = sliderVolumeMusic.value;
-        Save();
-        ValueMusic();
-    }
-
-    public void ToggleMusic()
-    {
-        if (toggleMusic.isOn == true)
+        // Загрузка сохраненной громкости
+        if (PlayerPrefs.HasKey("volume"))
         {
-            volume = 1;
+            float savedVolume = PlayerPrefs.GetFloat("volume");
+            volumeSlider.value = savedVolume;
+            SetVolume(savedVolume);
         }
-        else
-        {
-            volume = 0;
-        }
-        Save();
-        ValueMusic();
     }
 
-    private void ValueMusic()
+    public void SetVolume(float volume)
     {
-        audio.volume = volume;
-        sliderVolumeMusic.value = volume;
-        if (volume == 0) { toggleMusic.isOn = false; } else { toggleMusic.isOn = true; }
-    }
-
-    private void Save()
-    {
+        // Устанавливаем громкость в микшере
+        audioMixer.SetFloat("MasterVolume", Mathf.Log10(volume) * 20);
+        // Сохраняем значение громкости
         PlayerPrefs.SetFloat("volume", volume);
-    }
-
-    private void Load()
-    {
-        volume = PlayerPrefs.GetFloat("volume", volume);
     }
 }
