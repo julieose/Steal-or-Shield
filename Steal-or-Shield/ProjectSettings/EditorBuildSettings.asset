@@ -38,9 +38,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Kitchen1.unity
     guid: 516d4ba85ee8d6a4eafc30e26021d220
-  - enabled: 0
-    path: Assets/Scenes/Room2.unity
-    guid: ad8f93e2a18d5c145991e87e27fe63ab
+  - enabled: 1
+    path: Assets/Scenes/Corridor 1.unity
+    guid: c4d0bd316891ce24caa57b3c26c469de
+  - enabled: 1
+    path: Assets/Scenes/pipe_puzzle.unity
+    guid: 7dd07547829922341891858ac94a39a9
+  - enabled: 1
+    path: Assets/Scenes/final.unity
+    guid: 55c8cc3ef45b6794288002d54f805472
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

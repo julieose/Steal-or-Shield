@@ -3798,7 +3798,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   totalItemsToFind: 10
-  nextSceneName: Corridor
+  nextSceneName: Corridor 1
 --- !u!4 &962233443
 Transform:
   m_ObjectHideFlags: 0
@@ -4450,7 +4450,7 @@ SpriteRenderer:
   m_Size: {x: 11.88, y: 10.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1359073876
