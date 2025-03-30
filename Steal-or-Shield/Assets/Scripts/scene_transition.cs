@@ -17,4 +17,8 @@ public class scene_transition : MonoBehaviour
         int scena = Random.Range(1, 4);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + scena);
     }
+    public void Skip()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
+    }
 }
