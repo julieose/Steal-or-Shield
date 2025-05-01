@@ -1,17 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
 guid: 31551c76f7b8cc84c96479323da30f77
-=======
-guid: f4753ba5034b4254d9db526f93facf90
->>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 5998347998936927942
     second: grater_0
-  - first:
-      213: -5156413836233167680
-    second: grater_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -110,28 +103,6 @@ TextureImporter:
       name: grater_0
       rect:
         serializedVersion: 2
-        x: 1459
-        y: 3199
-        width: 61
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ce8fc379b96e3350800000000000000
-      internalID: 5998347998936927942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: grater_1
-      rect:
-        serializedVersion: 2
         x: 2
         y: 7
         width: 1983
@@ -144,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cca9609fecb078b0800000000000000
-      internalID: -5156413836233167680
+      spriteID: 6ce8fc379b96e3350800000000000000
+      internalID: 5998347998936927942
       vertices: []
       indices: 
       edges: []
@@ -163,13 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< Updated upstream
-    nameFileIdTable:
-      grater_0: 5998347998936927942
-      grater_1: -5156413836233167680
-=======
     nameFileIdTable: {}
->>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

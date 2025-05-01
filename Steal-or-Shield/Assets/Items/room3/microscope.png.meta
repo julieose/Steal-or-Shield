@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 21fb8920f6f1c0f42b57840c75c0b9ff
+guid: 38c5acef4dc91f54790c1bdfb17dbac8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3413006870710782370
-    second: sugar_0
-  - first:
-      213: 5509364019031260244
-    second: sugar_1
+      213: -4428912374758282309
+    second: microscope_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sugar_0
+      name: microscope_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 71
-        width: 109
-        height: 68
+        x: 250
+        y: 126
+        width: 513
+        height: 796
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e56f05f755092a0d0800000000000000
-      internalID: -3413006870710782370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sugar_1
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 77
-        width: 249
-        height: 201
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45c3daca261357c40800000000000000
-      internalID: 5509364019031260244
+      spriteID: bbb633919a75982c0800000000000000
+      internalID: -4428912374758282309
       vertices: []
       indices: 
       edges: []
@@ -159,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      sugar_0: -3413006870710782370
-      sugar_1: 5509364019031260244
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

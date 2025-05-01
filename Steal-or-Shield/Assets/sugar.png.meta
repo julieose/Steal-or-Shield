@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 5296a376427bff64786a69abdb5f5429
+guid: 620fb963d9d4dd3498870e79a8825f16
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2568313909276316941
-    second: robot vacuum cleaner_0
+      213: -3413006870710782370
+    second: sugar_0
   - first:
-      213: -1186864154137709197
-    second: robot vacuum cleaner_1
+      213: 5509364019031260244
+    second: sugar_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: robot vacuum cleaner_0
+      name: sugar_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 14
-        width: 499
-        height: 283
+        x: 7
+        y: 1
+        width: 109
+        height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3fae3e56b148b5cd0800000000000000
-      internalID: -2568313909276316941
+      spriteID: e56f05f755092a0d0800000000000000
+      internalID: -3413006870710782370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robot vacuum cleaner_1
+      name: sugar_1
       rect:
         serializedVersion: 2
-        x: 485
-        y: 11
-        width: 17
-        height: 16
+        x: 103
+        y: 7
+        width: 249
+        height: 201
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3753aff0759678fe0800000000000000
-      internalID: -1186864154137709197
+      spriteID: 45c3daca261357c40800000000000000
+      internalID: 5509364019031260244
       vertices: []
       indices: 
       edges: []

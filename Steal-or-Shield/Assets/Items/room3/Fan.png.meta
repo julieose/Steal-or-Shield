@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 5296a376427bff64786a69abdb5f5429
+guid: f3afd43deac35f945ac72ee50b3b679d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2568313909276316941
-    second: robot vacuum cleaner_0
-  - first:
-      213: -1186864154137709197
-    second: robot vacuum cleaner_1
+      213: 6147777685625707044
+    second: Fan_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: robot vacuum cleaner_0
+      name: Fan_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 14
-        width: 499
-        height: 283
+        x: 117
+        y: 151
+        width: 780
+        height: 718
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3fae3e56b148b5cd0800000000000000
-      internalID: -2568313909276316941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: robot vacuum cleaner_1
-      rect:
-        serializedVersion: 2
-        x: 485
-        y: 11
-        width: 17
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3753aff0759678fe0800000000000000
-      internalID: -1186864154137709197
+      spriteID: 42a1bc59b3b415550800000000000000
+      internalID: 6147777685625707044
       vertices: []
       indices: 
       edges: []
