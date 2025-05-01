@@ -1,5 +1,7 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 [DefaultExecutionOrder(-1)]
 public class Game : MonoBehaviour
@@ -12,6 +14,7 @@ public class Game : MonoBehaviour
     private CellGrid grid;
     private bool gameover;
     private bool generated;
+    public GameObject victoryPanel;
 
     private void OnValidate()
     {
@@ -249,36 +252,63 @@ public class Game : MonoBehaviour
                 }
             }
         }
+        Debug.Log("Over");
+        StartCoroutine(RestartAfterDelay(2f));
+    }
+
+    private IEnumerator RestartAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        NewGame();
     }
 
     private void CheckWinCondition()
     {
+        if (gameover) return;
+
+        bool won = true;
         for (int x = 0; x < width; x++)
         {
             for (int y = 0; y < height; y++)
             {
                 Cell cell = grid[x, y];
-
-                if (cell.type != Cell.Type.Mine && !cell.revealed) {
-                    return; 
+                if (!cell.revealed && cell.type != Cell.Type.Mine)
+                {
+                    won = false;
+                    break;
                 }
             }
+            if (!won) break;
         }
 
-        gameover = true;
-
-        for (int x = 0; x < width; x++)
+        if (won)
         {
-            for (int y = 0; y < height; y++)
-            {
-                Cell cell = grid[x, y];
-
-                if (cell.type == Cell.Type.Mine) {
-                    cell.flagged = true;
-                }
-            }
+            gameover = true;
+            ShowVictoryPanel();
+            StartCoroutine(LoadNextSceneAfterDelay(3f));
         }
-        // TODO: Make the end of game display and selection play again or exit
+    }
+
+    private void ShowVictoryPanel()
+    {
+        if (victoryPanel != null)
+        {
+            victoryPanel.SetActive(true);
+        }
+        else
+        {
+            Debug.Log("Victory! But victoryPanel is not assigned.");
+        }
+    }
+
+    private IEnumerator LoadNextSceneAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+            SceneManager.LoadScene(nextSceneIndex);
+        else
+            Debug.Log("No next scene available.");
     }
 
     private bool TryGetCellAtMousePosition(out Cell cell)

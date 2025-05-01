@@ -1,42 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\",
+  "WorkspaceRootPath": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\c#\\steal-or-shield\\steal-or-shield\\assets\\scripts\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|c:\\users\\julia\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steal-or-shield\\steal-or-shield\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D22C9A9-3A4D-07D6-055E-DAD7B2856A47}|Unity.2D.Tilemap.Editor.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\library\\packagecache\\com.unity.2d.tilemap\\editor\\gridbrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D22C9A9-3A4D-07D6-055E-DAD7B2856A47}|Unity.2D.Tilemap.Editor.csproj|solutionrelative:library\\packagecache\\com.unity.2d.tilemap\\editor\\gridbrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\assets\\slidebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\slidebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\cellgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\cellgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\clickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\slidebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\slidebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\clickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\clickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,32 +66,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExampleClass.cs",
-              "DocumentMoniker": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ExampleClass.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ExampleClass.cs",
-              "ToolTip": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ExampleClass.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ExampleClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GridBrush.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Library\\PackageCache\\com.unity.2d.tilemap\\Editor\\GridBrush.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap\\Editor\\GridBrush.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Library\\PackageCache\\com.unity.2d.tilemap\\Editor\\GridBrush.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap\\Editor\\GridBrush.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T16:30:15.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T18:19:16.676Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Board.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:12:52.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Cell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cell.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Cell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:12:50.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAqwBkBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:02:05.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CellGrid.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\CellGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CellGrid.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\CellGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CellGrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:01:30.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExampleClass.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ExampleClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExampleClass.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ExampleClass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExampleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:30:15.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SlideBehavior.cs",
-              "DocumentMoniker": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\SlideBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\SlideBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\SlideBehavior.cs",
-              "ToolTip": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\SlideBehavior.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\SlideBehavior.cs",
               "RelativeToolTip": "Assets\\SlideBehavior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MainMenu.cs",
-              "DocumentMoniker": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
-              "ToolTip": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\MainMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "scene_transition.cs",
-              "DocumentMoniker": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\scene_transition.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\scene_transition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\scene_transition.cs",
-              "ToolTip": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\scene_transition.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\scene_transition.cs",
               "RelativeToolTip": "Assets\\Scripts\\scene_transition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "BackgroundScaler.cs",
-              "DocumentMoniker": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\BackgroundScaler.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\BackgroundScaler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundScaler.cs",
-              "ToolTip": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\BackgroundScaler.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\BackgroundScaler.cs",
               "RelativeToolTip": "Assets\\Scripts\\BackgroundScaler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "ItemCounter.cs",
-              "DocumentMoniker": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ItemCounter.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ItemCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCounter.cs",
-              "ToolTip": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ItemCounter.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ItemCounter.cs",
               "RelativeToolTip": "Assets\\Scripts\\ItemCounter.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ClickTrack.cs",
-              "DocumentMoniker": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickTrack.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickTrack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ClickTrack.cs",
-              "ToolTip": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickTrack.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickTrack.cs",
               "RelativeToolTip": "Assets\\Scripts\\ClickTrack.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ClickControl.cs",
-              "DocumentMoniker": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickControl.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ClickControl.cs",
-              "ToolTip": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickControl.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\ClickControl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,15 +231,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Timer.cs",
-              "DocumentMoniker": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Timer.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Timer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
-              "ToolTip": "D:\\C#\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Timer.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Timer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T19:54:52.708Z"
+              "WhenOpened": "2024-11-28T19:54:52.708Z",
+              "EditorCaption": ""
             }
           ]
         }

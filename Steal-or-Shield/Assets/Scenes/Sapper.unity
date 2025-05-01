@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 447558465}
   - component: {fileID: 447558467}
   - component: {fileID: 447558466}
+  - component: {fileID: 447558468}
   m_Layer: 0
   m_Name: Tilemap
   m_TagString: Untagged
@@ -242,6 +243,31 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &447558468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 447558464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f528d27ee9f0164ca73020a169fa4d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tileUnknown: {fileID: 11400000, guid: 5f8239350817d794a88e1f44f54747fb, type: 2}
+  tileEmpty: {fileID: 11400000, guid: 973113cdc25b25a4683da9788bbdc8ba, type: 2}
+  tileMine: {fileID: 11400000, guid: 70cd4f6c8f96fd7498c4e554b8d7f0a4, type: 2}
+  tileExploded: {fileID: 11400000, guid: 7cbf23b57b23bda46808e60c860a1e0b, type: 2}
+  tileFlag: {fileID: 11400000, guid: c1303b209585096409b2c9ac504f986b, type: 2}
+  tileNum1: {fileID: 11400000, guid: 62183c8c2fd382e4eb182640ea283e6d, type: 2}
+  tileNum2: {fileID: 11400000, guid: ea386e62b66a19d4ba84b96a887efa4e, type: 2}
+  tileNum3: {fileID: 11400000, guid: d350f980425343746a97baec33c5e69d, type: 2}
+  tileNum4: {fileID: 11400000, guid: 2d5634a2f62c08d4399edc404b56b6fe, type: 2}
+  tileNum5: {fileID: 11400000, guid: fc4674ce57c6ae6409f7e1add066fb51, type: 2}
+  tileNum6: {fileID: 11400000, guid: 0802e8a8943d30641ad159ab533a8ff4, type: 2}
+  tileNum7: {fileID: 11400000, guid: a227a5676cd3d4c4b8ace60260b6ce76, type: 2}
+  tileNum8: {fileID: 11400000, guid: b41ec5e8aa95eaa4bbdc8d832a9b0e05, type: 2}
 --- !u!1 &1058765509
 GameObject:
   m_ObjectHideFlags: 0
@@ -252,6 +278,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1058765511}
   - component: {fileID: 1058765510}
+  - component: {fileID: 1058765512}
   m_Layer: 0
   m_Name: Grid
   m_TagString: Untagged
@@ -287,6 +314,21 @@ Transform:
   - {fileID: 447558465}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1058765512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1058765509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cfe1a762d6fc714d923af5a01bd33a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  width: 3
+  height: 3
+  mineCount: 1
 --- !u!1 &1954653479
 GameObject:
   m_ObjectHideFlags: 0
@@ -349,7 +391,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 9
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
