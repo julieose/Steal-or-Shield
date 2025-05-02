@@ -14,7 +14,7 @@ public class Game : MonoBehaviour
     private CellGrid grid;
     private bool gameover;
     private bool generated;
-    public GameObject victoryPanel;
+    public GameObject myGameObject;
 
     private void OnValidate()
     {
@@ -284,33 +284,34 @@ public class Game : MonoBehaviour
         if (won)
         {
             gameover = true;
-            ShowVictoryPanel();
-            StartCoroutine(LoadNextSceneAfterDelay(3f));
+            StartCoroutine(WinSequence());
         }
     }
 
-    private void ShowVictoryPanel()
+    IEnumerator WinSequence()
     {
-        if (victoryPanel != null)
-        {
-            victoryPanel.SetActive(true);
-        }
-        else
-        {
-            Debug.Log("Victory! But victoryPanel is not assigned.");
-        }
-    }
+        // Активируем объект с победой
+        myGameObject.SetActive(true);
 
-    private IEnumerator LoadNextSceneAfterDelay(float delay)
-    {
-        yield return new WaitForSeconds(delay);
-        int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
-        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
-            SceneManager.LoadScene(nextSceneIndex);
-        else
-            Debug.Log("No next scene available.");
-    }
+        // Ставим на паузу фоновую музыку
+        AudioSource audioSource = gameObject.GetComponent<AudioSource>();
+        if (audioSource != null && audioSource.isPlaying)
+        {
+            audioSource.Pause();
+        }
 
+        // Проигрываем победную музыку
+        //AudioSource.PlayClipAtPoint(bcgMusic, transform.position);
+
+        // Ждём 5 секунд
+        yield return new WaitForSecondsRealtime(5);
+
+        // Деактивируем объект с победой
+        myGameObject.SetActive(false);
+
+        // Переходим на следующую сцену
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
     private bool TryGetCellAtMousePosition(out Cell cell)
     {
         Vector3 worldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|c:\\users\\julia\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steal-or-shield\\steal-or-shield\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|c:\\users\\julia\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steal-or-shield\\steal-or-shield\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3881B6-E253-2C5B-68F4-914EBA739E19}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D22C9A9-3A4D-07D6-055E-DAD7B2856A47}|Unity.2D.Tilemap.Editor.csproj|C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\library\\packagecache\\com.unity.2d.tilemap\\editor\\gridbrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,13 +110,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Game.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game.cs",
               "ToolTip": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Game.cs",
               "RelativeToolTip": "Assets\\Scripts\\Game.cs",
-              "ViewState": "AgIAAAMBAAAAAAAAAAAqwBkBAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAwwDcBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T20:02:05.555Z",
               "EditorCaption": ""
@@ -231,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Timer.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Timer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
