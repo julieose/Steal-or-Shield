@@ -13,29 +13,35 @@ public class PuzzleManager : MonoBehaviour
     private void Start()
     {
         puzzle = GameObject.FindGameObjectsWithTag("Puzzle");
-        isCorrect = false;
-        myGameObject.SetActive(false);
+        CheckPuzzle();
     }
 
     private void Update()
     {
+        CheckPuzzle();
+    }
+
+    private void CheckPuzzle()
+    {
         bool allTrue = true;
         foreach (var item in puzzle)
         {
-            if (item.transform.rotation.z < -0.01 || item.transform.rotation.z > 0.01)
+            float zRot = item.transform.rotation.eulerAngles.z;
+            // Нормализуем угол в диапазон 0-360
+            if (Mathf.Abs(Mathf.DeltaAngle(zRot, 0)) > 1f)
             {
-                allTrue = false; break;
+                allTrue = false;
+                break;
             }
         }
-        if (allTrue)
+        if (allTrue && !isCorrect)
         {
             isCorrect = true;
-            StartCoroutine(WinSequence());
             Debug.Log("YOU WIN");
-
+            StartCoroutine(WinSequence());
         }
-        PuzzleRotate.isMouse = false;
     }
+
 
     //IEnumerator Pause(float time)
     //{ 

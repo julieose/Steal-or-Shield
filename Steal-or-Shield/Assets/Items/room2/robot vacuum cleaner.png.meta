@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      robot vacuum cleaner_0: -2568313909276316941
+      robot vacuum cleaner_1: -1186864154137709197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

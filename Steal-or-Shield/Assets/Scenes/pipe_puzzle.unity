@@ -253,7 +253,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &20983512
 BoxCollider2D:
@@ -447,7 +447,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &173100576
 BoxCollider2D:
@@ -641,7 +641,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &287091340
 BoxCollider2D:
@@ -835,7 +835,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &350814939
 BoxCollider2D:
@@ -1131,7 +1131,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &427743633
 BoxCollider2D:
@@ -1325,7 +1325,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &434062612
 BoxCollider2D:
@@ -1672,7 +1672,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &561136265
 BoxCollider2D:
@@ -1866,7 +1866,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &617833445
 BoxCollider2D:
@@ -2060,7 +2060,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &679771026
 BoxCollider2D:
@@ -2254,7 +2254,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &704830066
 BoxCollider2D:
@@ -2448,7 +2448,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &850076084
 BoxCollider2D:
@@ -2861,7 +2861,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1114006658
 BoxCollider2D:
@@ -3055,7 +3055,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1145550438
 BoxCollider2D:
@@ -3248,7 +3248,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!114 &1162124837
 MonoBehaviour:
@@ -3396,7 +3396,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1165755210
 BoxCollider2D:
@@ -3722,7 +3722,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1276286309
 BoxCollider2D:
@@ -3916,7 +3916,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1285825715
 BoxCollider2D:
@@ -4110,7 +4110,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1320114288
 BoxCollider2D:
@@ -4304,7 +4304,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1400730091
 BoxCollider2D:
@@ -4557,7 +4557,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1566456466
 BoxCollider2D:
@@ -4751,7 +4751,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1598547887
 BoxCollider2D:
@@ -4945,7 +4945,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1606272753
 BoxCollider2D:
@@ -5139,7 +5139,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1613264747
 BoxCollider2D:
@@ -5333,7 +5333,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1614040107
 BoxCollider2D:
@@ -5527,7 +5527,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1738881355
 BoxCollider2D:
@@ -5721,7 +5721,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1744266936
 BoxCollider2D:
@@ -5817,8 +5817,8 @@ Camera:
   m_GameObject: {fileID: 1756088050}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -6052,7 +6052,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1911030899
 BoxCollider2D:
@@ -6246,7 +6246,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.1399994, y: 7.020936}
+  m_Size: {x: 7.15, y: 7.020936}
   m_EdgeRadius: 0
 --- !u!61 &1937619822
 BoxCollider2D:
@@ -6321,7 +6321,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2043139374
 Transform:
   m_ObjectHideFlags: 0
