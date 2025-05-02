@@ -39,6 +39,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Kitchen1.unity
     guid: 516d4ba85ee8d6a4eafc30e26021d220
   - enabled: 1
+    path: Assets/Scenes/Kitchen2.unity
+    guid: 895b2c6605e12ed40b3f151ed07c918e
+  - enabled: 1
+    path: Assets/Scenes/Kitchen3.unity
+    guid: c61ceb4d2db61824299f24aa46473a5e
+  - enabled: 1
     path: Assets/Scenes/Corridor 1.unity
     guid: c4d0bd316891ce24caa57b3c26c469de
   - enabled: 1

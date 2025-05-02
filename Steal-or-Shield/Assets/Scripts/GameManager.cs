@@ -244,7 +244,9 @@ public class GameManager : MonoBehaviour
         gameStarted = false;
         Cursor.visible = true;//включаю курсор
         //audioSource.Play();//включаю фоновую музыку
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+         int scena = Random.Range(1, 4);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + scena);
     }
     IEnumerator Pause1(float time)
     {
