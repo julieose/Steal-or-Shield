@@ -4309,6 +4309,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1019839704 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1044223056262605225, guid: 9f01c584ef393b24dbd8bfc0b984cef6, type: 3}
+  m_PrefabInstance: {fileID: 820889809}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1080600035
 GameObject:
   m_ObjectHideFlags: 0
@@ -5870,10 +5875,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfe5ebe0bee3c2646b80eec89b6c6f8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLeft: 10
-  nextSceneName: Action1
-  bcgMusic: {fileID: 8300000, guid: e8e0d1ca21cdc31459936c73ddea9f55, type: 3}
-  myGameObject: {fileID: 1044223056262605225, guid: 9f01c584ef393b24dbd8bfc0b984cef6, type: 3}
+  timeLeft: 90
+  nextSceneName: Kitchen2
+  bcgMusicEnd: {fileID: 8300000, guid: e8e0d1ca21cdc31459936c73ddea9f55, type: 3}
+  myGameObjectEnd: {fileID: 1019839704}
   timerText: {fileID: 507180402}
 --- !u!4 &1679204635
 Transform:
