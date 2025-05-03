@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: af955cf898c4e87468f8c03e3a8debbe
+guid: ee4c677153459aa4ea760711e8b5dd02
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -109,7 +109,7 @@ TextureImporter:
       name: bear_0
       rect:
         serializedVersion: 2
-        x: 765
+        x: 681
         y: 988
         width: 99
         height: 36
@@ -131,7 +131,7 @@ TextureImporter:
       name: bear_1
       rect:
         serializedVersion: 2
-        x: 148
+        x: 64
         y: 45
         width: 735
         height: 933
@@ -153,7 +153,7 @@ TextureImporter:
       name: bear_2
       rect:
         serializedVersion: 2
-        x: 786
+        x: 702
         y: 44
         width: 10
         height: 6
@@ -184,10 +184,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      bear_0: 7935234321397735378
-      bear_1: -3001681976893849735
-      bear_2: 1168296128566557295
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

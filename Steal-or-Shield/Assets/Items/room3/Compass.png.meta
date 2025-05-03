@@ -8,9 +8,6 @@ TextureImporter:
   - first:
       213: -2137532206259155208
     second: Compass_1
-  - first:
-      213: 6285831312349965388
-    second: Compass_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,10 +106,10 @@ TextureImporter:
       name: Compass_0
       rect:
         serializedVersion: 2
-        x: 120
-        y: 416
-        width: 8
-        height: 25
+        x: 35
+        y: 41
+        width: 581
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,10 +128,10 @@ TextureImporter:
       name: Compass_1
       rect:
         serializedVersion: 2
-        x: 228
-        y: 191
-        width: 581
-        height: 618
+        x: 598
+        y: 0
+        width: 12
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,28 +142,6 @@ TextureImporter:
       bones: []
       spriteID: 8fe47f598c5f552e0800000000000000
       internalID: -2137532206259155208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Compass_2
-      rect:
-        serializedVersion: 2
-        x: 791
-        y: 139
-        width: 12
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4ca5aa5642cb3750800000000000000
-      internalID: 6285831312349965388
       vertices: []
       indices: 
       edges: []
@@ -184,10 +159,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Compass_0: -5941269532982766630
-      Compass_1: -2137532206259155208
-      Compass_2: 6285831312349965388
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

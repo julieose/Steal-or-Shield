@@ -51,6 +51,9 @@ EditorBuildSettings:
     path: Assets/Scenes/pipe_puzzle.unity
     guid: 7dd07547829922341891858ac94a39a9
   - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: 6eee793491f42d741927c1adc8457e3c
+  - enabled: 1
     path: Assets/Scenes/final.unity
     guid: 55c8cc3ef45b6794288002d54f805472
   m_configObjects:
