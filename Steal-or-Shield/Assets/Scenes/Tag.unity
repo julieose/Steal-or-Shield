@@ -594,7 +594,7 @@ MonoBehaviour:
   piecePrefab: {fileID: 6081030449652868335, guid: f4dc571b7dfdd1c47b0227fd51ab2a5e, type: 3}
   victoryText: {fileID: 245983211}
   myGameObject: {fileID: 1901839113}
-  bcgMusic: {fileID: 8300000, guid: 67c8d7adeb7fa46499f9bbbcb6ab55e1, type: 3}
+  bcgMusic: {fileID: 8300000, guid: 470725eeaa7060e48a87ad5e36df9135, type: 3}
 --- !u!4 &895737140
 Transform:
   m_ObjectHideFlags: 0
