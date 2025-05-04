@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Call0.unity
     guid: b14ec373f6362974d812b41790d44a06
   - enabled: 1
-    path: Assets/Scenes/Call1.unity
+    path: Assets/Scenes/Final cut-scene/final 0.unity
     guid: 262e3e4561b0b4b47b5410f06bfa5d19
   - enabled: 1
     path: Assets/Scenes/Action1.unity
