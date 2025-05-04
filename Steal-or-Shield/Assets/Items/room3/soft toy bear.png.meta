@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soft toy bear_0: -6585014813739911337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

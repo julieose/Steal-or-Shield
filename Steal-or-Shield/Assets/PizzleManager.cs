@@ -121,6 +121,8 @@ public class PuzzleManager : MonoBehaviour
         myGameObject.SetActive(false);
 
         // Переходим на следующую сцену
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        int scena = Random.Range(1, 4);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + scena);
     }
 }

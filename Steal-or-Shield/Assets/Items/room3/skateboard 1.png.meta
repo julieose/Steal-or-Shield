@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: dccc278bb3dabee439e513872b65caf8
+guid: fe7d19f107c9da14cb165e89d6b19bce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5941269532982766630
-    second: Compass_0
-  - first:
-      213: -2137532206259155208
-    second: Compass_1
+      213: -4389440451093746512
+    second: skateboard 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Compass_0
+      name: skateboard 1_0
       rect:
         serializedVersion: 2
-        x: 35
-        y: 41
-        width: 581
-        height: 618
+        x: 106
+        y: 308
+        width: 845
+        height: 260
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad316b386de5c8da0800000000000000
-      internalID: -5941269532982766630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Compass_1
-      rect:
-        serializedVersion: 2
-        x: 598
-        y: 0
-        width: 12
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8fe47f598c5f552e0800000000000000
-      internalID: -2137532206259155208
+      spriteID: 0bca3dd7a239513c0800000000000000
+      internalID: -4389440451093746512
       vertices: []
       indices: 
       edges: []
@@ -159,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Compass_0: -5941269532982766630
-      Compass_1: -2137532206259155208
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
