@@ -1,5 +1,6 @@
-using UnityEditor.SearchService;
+//using UnityEditor.SearchService;
 using UnityEngine;
+using UnityEditor;
 using UnityEngine.SceneManagement;
 
 public class scene_transition : MonoBehaviour

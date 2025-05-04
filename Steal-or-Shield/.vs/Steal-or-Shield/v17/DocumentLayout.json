@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\\u043F\u0434 24\\steal-or-shield\\steal-or-shield\\assets\\scripts\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\\u043F\u0434 24\\steal-or-shield\\steal-or-shield\\assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\resolutionscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resolutionscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\pizzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\pizzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\\u043F\u0434 24\\steal-or-shield\\steal-or-shield\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -20,10 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\clicktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,7 +65,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleClass.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ExampleClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExampleClass.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ExampleClass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExampleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:36:49.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ResolutionScaler.cs",
+              "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ResolutionScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResolutionScaler.cs",
+              "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ResolutionScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResolutionScaler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:57:28.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Game.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game.cs",
@@ -65,12 +98,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Game.cs",
               "ViewState": "AgIAACcBAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T12:11:05.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T12:11:05.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Timer.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\Timer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
@@ -82,19 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "scene_transition.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\scene_transition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\scene_transition.cs",
               "ToolTip": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\scene_transition.cs",
               "RelativeToolTip": "Assets\\Scripts\\scene_transition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T13:42:42.714Z"
+              "WhenOpened": "2025-05-02T13:42:42.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ClickTrack.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\ClickTrack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ClickTrack.cs",
@@ -106,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MusicManager.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\MusicManager.cs",
               "RelativeDocumentMoniker": "Assets\\MusicManager.cs",
@@ -118,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -126,12 +159,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAOkAAAAAAAAAAAAUwPgAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:51:58.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T15:51:58.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PizzleManager.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\PizzleManager.cs",
               "RelativeDocumentMoniker": "Assets\\PizzleManager.cs",
@@ -139,12 +171,11 @@
               "RelativeToolTip": "Assets\\PizzleManager.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAkwH0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:19:09.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T12:19:09.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PuzzleRotate.cs",
               "DocumentMoniker": "D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\Assets\\PuzzleRotate.cs",
               "RelativeDocumentMoniker": "Assets\\PuzzleRotate.cs",
@@ -156,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "GameManeger.cs",
               "DocumentMoniker": "D:\\Sos\\Steal-or-Shield\\Steal-or-Shield\\Assets\\GameManeger.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Sos\\Steal-or-Shield\\Steal-or-Shield\\Assets\\GameManeger.cs",
