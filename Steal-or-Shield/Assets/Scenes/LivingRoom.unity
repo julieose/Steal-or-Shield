@@ -9214,8 +9214,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfe5ebe0bee3c2646b80eec89b6c6f8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLeft: 90
-  nextSceneName: Kitchen2
+  timeLeft: 60
+  nextSceneName: LivingRoom1
   bcgMusicEnd: {fileID: 8300000, guid: e8e0d1ca21cdc31459936c73ddea9f55, type: 3}
   myGameObjectEnd: {fileID: 1019839704}
   timerText: {fileID: 507180402}
