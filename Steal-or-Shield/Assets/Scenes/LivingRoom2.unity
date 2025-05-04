@@ -6697,7 +6697,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   totalItemsToFind: 10
-  nextSceneName: Corridor 1
+  nextSceneName: Corridor 2
 --- !u!4 &962233443
 Transform:
   m_ObjectHideFlags: 0
