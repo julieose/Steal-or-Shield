@@ -284,6 +284,7 @@ public class Game : MonoBehaviour
         if (won)
         {
             gameover = true;
+            Debug.Log("Win");
             StartCoroutine(WinSequence());
         }
     }
