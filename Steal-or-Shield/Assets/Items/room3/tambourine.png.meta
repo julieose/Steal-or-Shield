@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tambourine_0: -6172015930213412838
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
