@@ -15,6 +15,7 @@ public class Game : MonoBehaviour
     private bool gameover;
     private bool generated;
     public GameObject myGameObject;
+    public AudioClip bcgMusic;// музыка победы
 
     private void OnValidate()
     {
@@ -302,7 +303,7 @@ public class Game : MonoBehaviour
         }
 
         // Проигрываем победную музыку
-        //AudioSource.PlayClipAtPoint(bcgMusic, transform.position);
+        AudioSource.PlayClipAtPoint(bcgMusic, transform.position);
 
         // Ждём 5 секунд
         yield return new WaitForSecondsRealtime(5);
