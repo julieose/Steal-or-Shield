@@ -852,7 +852,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1674256940}
     m_Modifications:
     - target: {fileID: 4658889575934317556, guid: 9f2ae6affc00a6543b42387360eb8a75, type: 3}
       propertyPath: m_SizeDelta.x
@@ -880,7 +880,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7481406419198025479, guid: 9f2ae6affc00a6543b42387360eb8a75, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7534258806993865484, guid: 9f2ae6affc00a6543b42387360eb8a75, type: 3}
       propertyPath: m_AnchorMax.x
@@ -953,6 +953,13 @@ PrefabInstance:
     - target: {fileID: 7770633879675994535, guid: 9f2ae6affc00a6543b42387360eb8a75, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9063579813675305807, guid: 9f2ae6affc00a6543b42387360eb8a75, type: 3}
+      propertyPath: m_text
+      value: "\u0412\u044B \u043D\u0430\u0448\u043B\u0438 \u0432\u0441\u0435 \u043A\u0430\u043F\u043A\u0430\u043D\u044B,
+        \u0442\u0435\u043F\u0435\u0440\u044C \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u0441\u044F
+        \u043B\u0435\u0433\u043A\u043E \u0434\u043E\u0433\u043D\u0430\u0442\u044C
+        \u0432\u043E\u0440\u0430!"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1098,6 +1105,11 @@ CanvasRenderer:
 --- !u!1 &1229224966 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7481406419198025479, guid: 9f2ae6affc00a6543b42387360eb8a75, type: 3}
+  m_PrefabInstance: {fileID: 1099839772}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1229224967 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7770633879675994535, guid: 9f2ae6affc00a6543b42387360eb8a75, type: 3}
   m_PrefabInstance: {fileID: 1099839772}
   m_PrefabAsset: {fileID: 0}
 --- !u!224 &1307647758 stripped
@@ -1404,7 +1416,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1229224967}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1806596010
@@ -2049,4 +2062,3 @@ SceneRoots:
   - {fileID: 1954653482}
   - {fileID: 1058765511}
   - {fileID: 1674256940}
-  - {fileID: 1099839772}
