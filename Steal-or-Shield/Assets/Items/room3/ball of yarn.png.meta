@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ball of yarn_0: -921319530419237810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
