@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|d:\\\u043F\u0434 24\\steal-or-shield\\steal-or-shield\\assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|D:\\\u041F\u0414 24\\Steal-or-Shield\\Steal-or-Shield\\assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27C09404-D9A5-CCEF-9C8B-4D2E1B125CE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -122,8 +122,7 @@
               "RelativeToolTip": "Assets\\Scripts\\scene_transition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T13:42:42.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T13:42:42.714Z"
             },
             {
               "$type": "Document",
